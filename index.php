@@ -1,4 +1,4 @@
-<img src="ironman.JPG" alt="Anuddeeph" width="564" height="1002">
+<img src="ironman.jpg" alt="Anuddeeph" width="564" height="1002">
 <br />
 <pre>
 <?php
