@@ -9,4 +9,4 @@ print `ifconfig`;
 
 ?>
 </pre>
-<img src="ironman.JPG" alt="Anuddeeph" width="500" height="600">
+<img src="ironman.JPG" alt="Anuddeeph" width="564" height="1002">
